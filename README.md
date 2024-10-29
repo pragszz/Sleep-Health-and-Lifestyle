@@ -20,7 +20,23 @@ This project is designed for healthcare professionals, researchers in sleep medi
 1. Clone the repository to your local machine using Git:
 `git clone https://github.com/pragszz/Sleep-Health-and-Lifestyle.git`
 
-2. Open the terminal and navigate to the Sleep-Health-and-Lifestyle directory.
+2. Open the terminal and navigate to the Sleep-Health-and-Lifestyle directory:
+`cd Sleep-Health-and-Lifestyle`
 
+3. Install Dependencies: Make sure you have Python installed. Then, install the required packages using:
+`pip install -r requirements.txt`
+
+4. Run the Analysis (Jupyter Notebook):
+`jupyter notebook`
+
+5. View Results
+
+## Dependencies
+
+| Package           | Version   |
+|-------------------|-----------|
+| altair            | 5.2.0     |
+| ipython           | 8.15.0    |
+| pandas            | 2.2.2     |
 
 
