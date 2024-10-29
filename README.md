@@ -31,10 +31,6 @@ This project is designed for healthcare professionals, researchers in sleep medi
 
 5. View Results
 
-## Final Result
-
-![Overall Sleep Health and Lifestyle Analysis Report](dashboard/trends_and_patterns.png)
-
 ## Dependencies
 
 | Package           | Version   |
@@ -42,6 +38,12 @@ This project is designed for healthcare professionals, researchers in sleep medi
 | altair            | 5.2.0     |
 | ipython           | 8.15.0    |
 | pandas            | 2.2.2     |
+
+## Final Result
+
+![Overall Sleep Health and Lifestyle Analysis Report](dashboard/trends_and_patterns.png)
+
+
 
 
 
