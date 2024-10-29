@@ -40,7 +40,7 @@ This project is designed for healthcare professionals, researchers in sleep medi
 | pandas            | 2.2.2     |
 
 ## Final Result
-The visualizations presented in this project were developed using Power BI.
+The visualization presented was developed using Power BI.
 
 ![Overall Sleep Health and Lifestyle Analysis Report](dashboard/trends_and_patterns.png)
 
