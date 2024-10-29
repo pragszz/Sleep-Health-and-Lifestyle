@@ -41,7 +41,7 @@ This project is designed for healthcare professionals, researchers in sleep medi
 
 ## Visualisation
 
-![Overall Sleep Health and Lifestyle Analysis Report](Sleep-Health-and-Lifestyle
-/dashboard/trends_and_patterns.png)
+![Overall Sleep Health and Lifestyle Analysis Report](dashboard/trends_and_patterns.png)
+
 
 
