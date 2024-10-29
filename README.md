@@ -39,4 +39,9 @@ This project is designed for healthcare professionals, researchers in sleep medi
 | ipython           | 8.15.0    |
 | pandas            | 2.2.2     |
 
+## Visualisation
+
+![Overall Sleep Health and Lifestyle Analysis Report](Sleep-Health-and-Lifestyle
+/dashboard/trends_and_patterns.png)
+
 
