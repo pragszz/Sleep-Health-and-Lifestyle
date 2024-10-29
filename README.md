@@ -15,6 +15,9 @@ Sleep is a critical component of overall health, and understanding the factors t
 ## Target Audience
 This project is designed for healthcare professionals, researchers in sleep medicine, and public health advocates. By sharing these insights, the intention is to foster collaboration and encourage the development of evidence-based strategies to enhance sleep health and reduce the incidence of sleep-related disorders in diverse populations.
 
+## Usage
 
+1. Clone the repository to your local machine using Git:
+`git clone https://github.com/pragszz/Sleep-Health-and-Lifestyle.git`
 
 
